@@ -1,0 +1,3 @@
+domain: cluster.x-k8s.io
+repo: github.com/ameukam/cluster-api-provider-scaleway
+version: "2"
